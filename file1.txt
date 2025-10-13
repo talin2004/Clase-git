@@ -1,6 +1,6 @@
 {
     key:"value",
     edad: 38,
+    monto: 1000
     nombre: "alejandro"
-    monto: 1000000
 }
