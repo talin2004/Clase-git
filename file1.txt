@@ -1,0 +1,5 @@
+{
+    key:"value",
+    edad: 38,
+    nombre: "alejandro"
+}
