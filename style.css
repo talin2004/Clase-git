@@ -9,7 +9,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #6dd5fa, #2980b9);
-    color: #fff;
+    color: #0c0808;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -57,7 +57,7 @@ a h2 {
 body > h2:last-of-type {
     margin-top: 3rem;
     font-size: 1.8rem;
-    color: #ecf0f1;
+    color: #111516;
     font-weight: 400;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
     max-width: 350px;
